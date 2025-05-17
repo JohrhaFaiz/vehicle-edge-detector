@@ -1,0 +1,5 @@
+opencv-python>=4.7.0
+numpy>=1.21
+pillow>=8.0.0
+jupyter>=1.0.0
+matplotlib>=3.5.0
