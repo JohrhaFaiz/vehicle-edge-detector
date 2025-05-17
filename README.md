@@ -56,10 +56,7 @@ These methods were validated and shown to be effective for structured license pl
 ###  Code Reference
 
 ```python
-from src.sobel_filter import sobel, canny
 
-sobel_edges = sobel(img, L2gradient=True)
-canny_edges = canny(img, L2gradient=True)
 ```
 
 The results are shown visually in the notebook using side-by-side comparisons.
