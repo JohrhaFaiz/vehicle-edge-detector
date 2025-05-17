@@ -5,25 +5,8 @@ This project applies Sobel and Canny edge detection techniques to vehicle images
  **"Automatic Number Plate Recognition of Saudi License Car Plates" (ETASR, Vol. 12, No. 2, 2022)**  
  [Paper Included](./Automatic_Number_Plate_Recognition_of_Saudi_License_Car_Plates.pdf)
 
----
 
-##  Project Structure
 
-```
-vehicle-edge-detector/
-├── notebooks/
-│   └── edge_detection.ipynb
-├── dataset/
-│   └── .gitignore
-├── results/
-│   ├── sample1.jpg
-│   └── sample1_edges.jpg
-├── src/
-│   └── sobel_filter.py
-├── README.md
-├── requirements.txt
-└── LICENSE (optional)
-```
 
 ---
 
