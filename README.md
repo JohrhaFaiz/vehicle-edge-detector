@@ -81,6 +81,4 @@ Libraries:
 - jupyter
 - matplotlib
 
----
 
- [Download Full Paper (PDF)](./Automatic_Number_Plate_Recognition_of_Saudi_License_Car_Plates.pdf)
